@@ -1053,15 +1053,15 @@ body {
 }
 
 .phone {
-  background: url(/img/footer/icons/Vector0.svg) left no-repeat;
+  background: url(./img/footer/icons/Vector0.svg) left no-repeat;
 }
 
 .map {
-  background: url(/img/footer/icons/Group\ 2.svg) left no-repeat;
+  background: url(./img/footer/icons/Group\ 2.svg) left no-repeat;
 }
 
 .emaill {
-  background: url(/img/footer/icons/Vector2.svg) left no-repeat;
+  background: url(./img/footer/icons/Vector2.svg) left no-repeat;
 }
 
 .footer__bot {
